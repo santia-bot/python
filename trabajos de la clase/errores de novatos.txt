@@ -1,0 +1,19 @@
+errores de novatos
+
+aprender un lenguaje antes que la logica. desarrolar la logica
+querer ir demasiado rapido. tener paciencia
+practicar todos lo dias. programar todos los dias
+hacer chistes del punto. no hacer chistes
+ser copypastero. no hacer eso
+no usar control de versiones
+aprender GIT
+preocuparse la edad
+no planificar. hacer un previa
+tener miedo de preguntar
+en mi maquina funciona. esta malo
+usar frameworks sin entender el lenguaje
+pelear por tecnologia
+codigo sucio. escribir el codigo ordenadamente
+no saber trabajar en equipo
+no descansar correctamente
+

@@ -1,0 +1,4 @@
+tupla =("Mexico", "Colombia", "Brasil", "Peru", "Chile", "Ecuador")
+pais =input("cual es tu pais de origen: \n " )
+índice = lista.index(pais)
+print("el pais", pais, " si se encuentra en la tupla en el index:", indice)

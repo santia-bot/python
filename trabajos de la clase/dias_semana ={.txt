@@ -1,0 +1,28 @@
+dias_semana ={
+	1:'LUN',
+	2:'MAR',
+	3:'MIE',
+	4:'JUE',
+	5:'VIE',
+	6:'SAB',
+	7:'DOM',
+}
+
+for llave in dias_semana:
+	print(llave)
+
+for valor in dias_semana.values():
+	print(valor)
+
+for llave,valor in dias_semana.items():
+	print(llave, valor)
+    dic_prueba={
+	'grupo1':{1:'LUN',2:'MAR'},
+	'grupo2':{3:'MIE',4:'JUE'},
+	'grupo3':{5:'VIE',6:'SAB',7:'DOM'}
+	}
+
+print(dic_prueba)
+
+
+

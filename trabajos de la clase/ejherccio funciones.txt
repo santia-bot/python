@@ -1,0 +1,8 @@
+"""Lupita Moran
+Ejercicio 1 - Realizar un programa en el cual pida tres números al usuario, con el uso de funciones, 
+uno debe indicar si es par o no y la otra función deberá regresar la multiplicación del valor por 10. 
+Todo esto se debe imprimir en pantalla. (Opcional pueden usar While)
+"""
+par = int(input("ingrese un numero:"))
+par =  par % 2
+print par
